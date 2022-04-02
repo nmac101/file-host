@@ -1,3 +1,12 @@
+/* ==UserStyle==
+@name         Austiblox 2016
+@namespace    
+@version      1.0.0
+@license      unlicense
+@preprocessor default
+@var color link-color "Link Color" red
+==/UserStyle== */
+
 @-moz-document domain("austiblox.net") {
 html{
     cursor: url('http://github.com/nmac101/file-host/blob/main/2006RobloxCursor.cur?raw=true'), auto;;
